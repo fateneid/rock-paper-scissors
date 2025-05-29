@@ -1,1 +1,1 @@
-# 05-project1-stone-paper-scissor
+# rock-paper-scissors
